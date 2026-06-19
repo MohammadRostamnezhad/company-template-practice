@@ -18,17 +18,17 @@ A practice company landing page template built with HTML, CSS, and JavaScript fo
 - Font Awesome
 
 ## 📁 Project Structure
+```text
 ├── index.html
 ├── styles/
-│ └── app.css
+│   └── app.css
 ├── scripts/
-│ └── app.js
+│   └── app.js
 ├── images/
-│ └── ... (project images)
+│   └── ... (project images)
 └── fonts/
-└── ... (project fonts)
-
-text
+    └── ... (project fonts)
+```
 
 ## 🚀 How to Run
 
