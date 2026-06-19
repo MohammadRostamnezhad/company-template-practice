@@ -2,13 +2,9 @@
 
 A practice company landing page template built with HTML, CSS, and JavaScript for learning purposes.
 
----
-
 ## 📌 About This Project
 
 This is a **single landing page** designed for a company. It includes all the essential sections of a modern corporate landing page and is fully responsive.
-
----
 
 ## ✨ Features
 
