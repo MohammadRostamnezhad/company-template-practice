@@ -10,7 +10,7 @@ This is a **single landing page** designed for a company. It includes all the es
 
 - Fully responsive design (mobile, tablet, desktop)
 - Hamburger menu for mobile devices
-- Multiple sections: Header, About, Portfolio, Testimonials, Newsletter
+Multiple sections: Header, How It Work, Clients Comment, Portfolio, Newsletter, Footer
 - Smooth animations
 - Font Awesome icons
 
